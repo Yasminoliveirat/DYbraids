@@ -31,4 +31,6 @@ a{
     flex-direction:row;
     align-content:space-around;
     justify-content:center;
+    margin: 10px;
+    bottom: 10px;
 }
